@@ -122,4 +122,5 @@ Provides real-time classification for unseen text
 Offers a reproducible training pipeline for similar NLP tasks
 
 Can be extended for domain-specific datasets beyond AG News
+Predict as i expected
 
