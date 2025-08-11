@@ -1,1 +1,1 @@
-# Small-AI-Tool-for-Text-Classification
+# AI-Tool-for-Text-Classification
