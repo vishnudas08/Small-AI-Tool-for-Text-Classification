@@ -123,23 +123,3 @@ Offers a reproducible training pipeline for similar NLP tasks
 
 Can be extended for domain-specific datasets beyond AG News
 
-📜 Files in Repository
-bash
-Copy
-Edit
-bert-text-classification/
-│
-├── p3_text_classify.py     # Main training & prediction script
-├── requirements.txt        # Python dependencies
-└── README.md               # Project documentation
-📌 Next Steps / Improvements
-Experiment with full BERT fine-tuning (unfreezing encoder layers)
-
-Implement learning rate schedulers for better convergence
-
-Deploy using Streamlit or FastAPI for a web interface
-
-Extend to multi-label text classification
-
-🧑‍💻 Author
-Vishnu Vardhan Darla
