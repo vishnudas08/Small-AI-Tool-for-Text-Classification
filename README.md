@@ -7,7 +7,7 @@ This was implemented as part of my effort to explore transformer models for real
 
 🔗 Live Demo / Repository
 GitHub Repository: [Your Repo Link Here]
-Notebook Version: [Colab Link if available]
+
 
 ⚙️ Tech Stacks
 Python
