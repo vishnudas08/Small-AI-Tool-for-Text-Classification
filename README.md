@@ -1,5 +1,5 @@
 # AI-Tool-for-Text-Classification
-#📌 Project Overview
+📌# Project Overview
 
 This project focuses on developing an NLP-based text classification tool using the BERT Transformer architecture and PyTorch. The model classifies news headlines into four categories — World, Sports, Business, and Sci/Tech — using the AG News dataset.
 
@@ -9,7 +9,7 @@ This was implemented as part of my effort to explore transformer models for real
 GitHub Repository: [Your Repo Link Here]
 
 
-⚙️ Tech Stacks
+⚙️ # Tech Stacks
 Python
 
 PyTorch
@@ -20,7 +20,7 @@ Pandas, NumPy
 
 Scikit-learn
 
-🧰 NLP & Deep Learning Techniques Used
+🧰#  NLP & Deep Learning Techniques Used
 Fine-tuning BERT (bert-base-uncased)
 
 Tokenization & Encoding using Hugging Face Tokenizer
@@ -55,7 +55,7 @@ Removed unnecessary columns (Title)
 
 Split into 80% train / 20% validation
 
-🧠 Data Preprocessing
+🧠#  Data Preprocessing
 Tokenized text with BertTokenizer using:
 
 Padding: max_length
@@ -81,7 +81,7 @@ Loss Function: CrossEntropyLoss
 
 Optimizer: Adam (lr=0.001)
 
-🖥 Training Process
+🖥 # Training Process
 Epochs: 2 (configurable)
 
 Training Loop:
