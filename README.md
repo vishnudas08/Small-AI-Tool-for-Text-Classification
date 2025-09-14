@@ -5,8 +5,6 @@ This project focuses on developing an NLP-based text classification tool using t
 
 This was implemented as part of my effort to explore transformer models for real-world NLP tasks, apply data preprocessing, and build an inference-ready pipeline. The goal is to showcase fine-tuning BERT for domain-specific classification and to implement robust, reproducible training workflows.
 
-🔗 Live Demo / Repository
-GitHub Repository: [Your Repo Link Here]
 
 
 ⚙️ # Tech Stacks
